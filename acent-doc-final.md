@@ -120,6 +120,7 @@ Osiris Metawallet is the native crypto wallet of Osiris browser. Osiris Metawall
 
 ### ACENT Network Architecture
 
+![NET ARCHITECTURE](images/Slide 5.png)
 
 ### Future Network Enhancements
 
