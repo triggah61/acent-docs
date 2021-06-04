@@ -30,6 +30,7 @@ Here we outline the mechanisms at work in the ACENT blockchain.
 
 ### Architecture
 
+![ACENT ARCHITECTURE](images/architecture.png)
 
 ### Consensus
 
