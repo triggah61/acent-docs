@@ -65,7 +65,7 @@ Alice buys Ethereum ACE from the exchange to participate in ARP. Alice will need
 
 ### Tokenomics
 
-####Token Distribution
+#### Token Distribution
 
 ACE is the native token Acent Blockchain. Initially, 2 billion ACE (Eth ACE) are issued as an ERC20 token in the Ethereum blockchain. Once Acent blockchain is deployed, Eth ACE holders will have the option to transfer their Eth ACE tokens to Acent blockchain to participate in POSA staking and get more ACE as rewards, as explained in the Token Governance section.
 
