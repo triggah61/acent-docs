@@ -1,5 +1,5 @@
 
-#ACENT BLOCKCHAIN TECHNICAL PAPER
+# ACENT BLOCKCHAIN TECHNICAL PAPER
 
 ## INTRODUCTION
 
@@ -26,14 +26,14 @@ ACENT blockchain is determined to improve the blockchain ecosystem by solving kn
 
 Here we outline the mechanisms at work in the ACENT blockchain.
 
-##ACENT FUNCTIONALITIES
+## ACENT FUNCTIONALITIES
 
 ### Architecture
 
 
 ### Consensus
 
-####POSA (Proof of Staked Authority)
+#### POSA (Proof of Staked Authority)
 
 ACENT uses Proof of Staked Authority (POSA) Consensus which has evolved from the old decenternet POR (Proof-of-Reliability) algorithm. The ACE POSA is a hybrid form of consensus that enhances the Clique Proof of Authority Consensus with built-in DeFi-like staking rewards to all participants.
 
@@ -47,7 +47,7 @@ The hybrid consensus enables the ACENT network to speed up transactions while ke
 
 Initially the signers/validators that would validate and seal/mine the blocks will be defined in the genesis.json. The signers will be updated dynamically via Clique POA protocol of Acent blockchain.
 
-####Staking Process
+#### Staking Process
 
 The POSA consensus works the same way as Clique POA consensus with additional staking feature via smart contracts. The staking feature will be administered by Acent Governance Smart Contract (AGSC) and Acent Rewards Smart Contract (ARSC) that will allow for the distribution of network fees as participation rewards called Acent Rewards Program (ARP)
 
@@ -69,7 +69,7 @@ Alice buys Ethereum ACE from the exchange to participate in ARP. Alice will need
 
 ACE is the native token Acent Blockchain. Initially, 2 billion ACE (Eth ACE) are issued as an ERC20 token in the Ethereum blockchain. Once Acent blockchain is deployed, Eth ACE holders will have the option to transfer their Eth ACE tokens to Acent blockchain to participate in POSA staking and get more ACE as rewards, as explained in the Token Governance section.
 
-####Token Governance
+#### Token Governance
 
 Once the Acent blockchain is deployed, holders of Eth ACE will be able to convert their Ethereum ACE to Acent blockchain&#39;s ACE via the Ethereum Bridge Smart Contract (EBSC). EBSM will burn Eth ACE to be converted. The Crypto Bridge Oracle (CBO) will pick-up the event in Ethereum and submit the conversion request to Acent Bridge Smart Contract (ABSC). ABSC will credit the holder&#39;s address in the Acent blockchain with the same amount of ACE burned.
 
@@ -115,10 +115,10 @@ Acent Governance DApp will enable ACENT admins to facilitate voting on enhanceme
 
 Osiris Metawallet is the native crypto wallet of Osiris browser. Osiris Metawallet will facilitate the wallet interface for swap/conversion of Eth ACE and token swaps of wrapped tokens in Acent blockchain.
 
-##APPENDIX
+## APPENDIX
 
-###ACENT Network Architecture
+### ACENT Network Architecture
 
 
-###Future Network Enhancements
+### Future Network Enhancements
 
