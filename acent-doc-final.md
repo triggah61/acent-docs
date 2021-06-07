@@ -127,15 +127,15 @@ Osiris Metawallet is the native crypto wallet of Osiris browser. Osiris Metawall
 
 ### Network URLs
 
-#### Test Nets
-1. POS type    http://hermes.acent.tech 
-2. Faucet      http://hermesf.acent.tech 
-3. POW type    http://hera.acent.tech 
-4. Faucet      http://heraf.acent.tech 
-5. POA type    http://ares.acent.tech 
-6. Faucet      http://aresf.acent.tech 
-7. Hyperledger http://iris.acent.tech 
-8. Faucet      http://irisf.acent.tech 
+[comment]: #### Test Nets
+[comment]: 1. POS type    http://hermes.acent.tech 
+[comment]: 2. Faucet      http://hermesf.acent.tech 
+[comment]: 3. POW type    http://hera.acent.tech 
+[comment]: 4. Faucet      http://heraf.acent.tech 
+[comment]: 5. POA type    http://ares.acent.tech 
+[comment]: 6. Faucet      http://aresf.acent.tech 
+[comment]: 7. Hyperledger http://iris.acent.tech 
+[comment]: 8. Faucet      http://irisf.acent.tech 
 
 #### Main Net
 Mainnet  is coming soon.
