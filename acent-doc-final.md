@@ -128,4 +128,4 @@ Osiris Metawallet is the native crypto wallet of Osiris browser. Osiris Metawall
 ### Network URLs
 
 #### Main Net
-Mainnet  is coming soon.
+Mainnet will be released according to the roadmap.
