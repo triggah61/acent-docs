@@ -118,6 +118,24 @@ Osiris Metawallet is the native crypto wallet of Osiris browser. Osiris Metawall
 
 ## APPENDIX
 
+### DAPPS - SMART CONTRACTS FLOW
+
+#### ACENT STAKING
+![ACENT STAKING](images/acent-staking.png)
+
+#### ACENT WITHDRAWAL
+![ACENT WITHDRAWAL](images/acent-withdrawal.png)
+
+#### ACE TO ACE SWAP
+![ACE TO ACE SWAP](images/a2a-swap.png)
+
+#### ETH TO AETH SWAP
+![ETH TO AETH SWAP](images/eth-aeth.png)
+
+#### WBTC TO ABTC SWAP
+![WBTC TO ABTC SWAP](images/wbtc-abtc.png)
+
+
 ### ACENT Network Architecture
 
 
