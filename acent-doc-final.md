@@ -214,7 +214,7 @@ Acent aims to expand into the mainstream by incentivizing net-neutral browsing a
 
 
 ### Acent mainnet
-![ACENT MAINNET](images/1. MAINNET.png)
+![ACENT MAINNET](https://github.com/triggah61/acent-docs/blob/main/images/1.%20MAINNET.png)
 
 ### Acent testnet
 ![ACENT TESTNET](images/2. TESTNET.png)
