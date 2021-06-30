@@ -207,8 +207,20 @@ contract PancakeERC20 is Acent ERC20 {
 
 
 
-### ACENT Network Architecture
+## ACENT Network Architecture
+Acent is not just a product but an ecosystem that is built on a set of modular, adaptable, and interchangeable tools. It is a rewards based ecosystem that aims to surpass both the current internet ecosystems and the work of existing blockchains like Ethereum. 
 
+Acent aims to expand into the mainstream by incentivizing net-neutral browsing and introducing dApps that use the play-to-earn model, among others. Developers are encouraged to join the effort to improve existing tools and create new ones in order to make the promise of blockchain technology a reality. 
+
+
+### Acent mainnet
+![ACENT MAINNET](images/1. MAINNET.png)
+
+### Acent testnet
+![ACENT TESTNET](images/2. TESTNET.png)
+
+### Acent blockchain main infrastructure
+![ACENT BLOCKCHAIN MAIN INFRASTRUCTURE](images/3. INFRA.png)
 
 ### Future Network Enhancements
 
