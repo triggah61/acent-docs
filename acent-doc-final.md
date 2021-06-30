@@ -217,10 +217,10 @@ Acent aims to expand into the mainstream by incentivizing net-neutral browsing a
 ![ACENT MAINNET](https://github.com/triggah61/acent-docs/blob/main/images/1.%20MAINNET.png)
 
 ### Acent testnet
-![ACENT TESTNET](images/2. TESTNET.png)
+![ACENT TESTNET](https://github.com/triggah61/acent-docs/blob/main/images/2.%20TESTNET.png)
 
 ### Acent blockchain main infrastructure
-![ACENT BLOCKCHAIN MAIN INFRASTRUCTURE](images/3. INFRA.png)
+![ACENT BLOCKCHAIN MAIN INFRASTRUCTURE](https://github.com/triggah61/acent-docs/blob/main/images/3.%20INFRA.png)
 
 ### Future Network Enhancements
 
