@@ -108,6 +108,8 @@ Crypto Bridge Oracle (CBO) will listen for conversion/swap events in Ethereum ev
 
 ABSC will facilitate swap/conversion requests and sends corresponding ACE tokens to the holder&#39;s address in Acent blockchain.
 
+See [Appendix: Dapps - Smart Contract Flows](#dapps---smart-contracts-flow)
+
 ### Ethereum-to-Acent Swap (E2AS) DApp
 
 Ethereum-to-Acent Swap (E2AS) DApp will enable token holders in Ethereum to convert their Ethereum ERC20 tokens to Ascended ARC20 in Acent Blockchain. The ERC20 tokens that will supported for swapping/conversion to ARC20 will be defined/created in the Acent Governance Smart Contract via Acent Governance Dapp.
@@ -119,6 +121,8 @@ EBSC will accept the ERC20 tokens from the request, store the ERC20 tokens in th
 Crypto Bridge Oracle (CBO) will listen for conversion/swap events in Ethereum events and sends the requests to Acent Bridge Smart Contract (ABSC).
 
 ABSC will facilitate swap/conversion requests and sends corresponding Ascended ARC20 tokens to the holder&#39;s address in Acent blockchain.
+
+See [Appendix: Dapps - Smart Contract Flows](#dapps---smart-contracts-flow)
 
 ### Acent Governance DApp
 
