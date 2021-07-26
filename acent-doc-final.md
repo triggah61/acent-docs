@@ -14,7 +14,7 @@ ACENT ACE is currently in the format of ERC20 utility token in the Ethereum chai
 ACENT blockchain is determined to improve the blockchain ecosystem by solving known problems and implementing the following improvements:
 
 1. **Acent is 100% compatible with Ethereum developer environment tools**
- All Ethereum dApps can be migrated as-is into the Acent ecosystem. dApps such as Cryptokitties or Uniswap can easily be migrated or be created with their own deployment version in the Acent chain.
+ All Ethereum DApps can be migrated as-is into the Acent ecosystem. DApps such as Cryptokitties or Uniswap can easily be migrated or be created with their own deployment version in the Acent chain.
 2. **Acent fosters blockchain mass adoption by lowering the financial entry barrier**
  Users can enjoy earning through farming or harvesting transaction fees collected on the Acent chain and distributed through the Acent Substance Accumulation Pool (ASAP).
 3. A **cent fosters blockchain mass adoption by lowering the technical entry barrier**
@@ -62,7 +62,7 @@ The more ACE a participant deposits to ARSC, the more ACE from the ASAP they are
 
 To better illustrate, consider the following example:
 
-Alice buys Ethereum ACE from the exchange to participate in ARP. Alice will need to convert her Ethereum ACE to ACENT ACE via Ace-to-Ace Swap (A2AS) DApp. Alice will then get her ACENT ACE. Once Alice deposits the ACE tokens she converted, she will be able to see how much ACE she has deposited at all times as well as her share of ACE in the ASAP. Should she need to withdraw her ACE tokens, Alice will be able to choose between withdrawing her principal deposit or her earnings from the ARSC.
+Alice buys Ethereum ACE from the exchange to participate in ARP. Alice will need to convert her Ethereum ACE to ACENT ACE via Acent Token Bridge (ATB) DApp. Alice will then get her ACENT ACE. Once Alice deposits the ACE tokens she converted, she will be able to see how much ACE she has deposited at all times as well as her share of ACE in the ASAP. Should she need to withdraw her ACE tokens, Alice will be able to choose between withdrawing her principal deposit or her earnings from the ARSC.
 
 ### Tokenomics
 
@@ -72,7 +72,7 @@ ACE is the native token Acent Blockchain. Initially, 2 billion ACE (Eth ACE) are
 
 #### Token Governance
 
-Once the Acent blockchain is deployed, holders of Eth ACE will be able to convert their Ethereum ACE to Acent blockchain&#39;s ACE via the Ethereum Bridge Smart Contract (EBSC). EBSM will burn Eth ACE to be converted. The Crypto Bridge Oracle (CBO) will pick-up the event in Ethereum and submit the conversion request to Acent Bridge Smart Contract (ABSC). ABSC will credit the holder&#39;s address in the Acent blockchain with the same amount of ACE burned.
+Once the Acent blockchain is deployed, holders of Eth ACE will be able to convert their Ethereum ACE to Acent blockchain&#39;s ACE via the Ethereum Bridge Smart Contract (EBSC). EBSM will lock in the smart contract the Eth ACE to be converted. The Crypto Bridge Oracle (CBO) will pick-up the event in Ethereum and submit the conversion request to Acent Bridge Smart Contract (ABSC). ABSC will credit the holder&#39;s address in the Acent blockchain with the same amount of Ethereum ACE locked. The address used to call EBSM should be authorized address and defined via the Acent Governance DApp.
 
 ABSC will initially hold the corresponding 2,000,000 ACE which will be needed to convert all the Eth ACE.
 
@@ -82,47 +82,29 @@ To manage future enhancements and settings of EBSC, CBO, and ABSC smart contract
 
 The Acent blockchain has it own version of wrapping called &quot;Ascending&quot; which allows users to convert BTC, ETH, or another wrapped contract as Acent-wrapped versions of their selected cryptocurrency. For instance, an ascended ETH will become AETH and WBTC to ABTC and will be sent to the user&#39;s Metawallet. The ETH or WBTC will then be held in custody within smart contracts to maintain a 1:1 value between the original and ascended tokens.
 
-ETH and ERC20 tokens are equally transferable as ascended tokens on the Acent chain.
+ETH and ERC20 tokens are will be equally transferable as ascended tokens on the Acent chain.
 
-The Ethereum Bridge Smart Contract (EBSC), Crypto Bridge Oracle (CBO), and Acent Bridge Smart Contract (ABSC) will facilitate the wrapping and ascending of corresponding tokens, similar to Eth ACE to ACE swap/conversion process.
+The Ethereum Bridge Smart Contract (EBSC), Crypto Bridge Oracle (CBO), and Acent Bridge Smart Contract (ABSC) via Acent Token Bridge (ATB) will facilitate the wrapping and ascending of corresponding tokens, similar to Eth ACE to ACE swap/conversion process.
 
 The Acent Governance Smart Contract facilitates the nomination, approval, and listing of wrapped/ascended tokens in the Acent Blockchain.
 
-## DAPPS, SMART CONTRACTS AND INTERFACES
+## DAppS, SMART CONTRACTS AND INTERFACES
 
-### Acent Rewards (AR) Dapp
+### Acent Rewards (AR) DApp
 
-AR Dapp will enable ACE holders to participate in Acent Rewards Program (ARP). AR Dapp facilitates the staking, and withdrawal of the ACE of participants. AR Dapp communicates with the Acent Rewards Smart Contract (ARSC) to process the participants&#39; requests.
+AR DApp will enable ACE holders to participate in Acent Rewards Program (ARP). AR DApp facilitates the staking, and withdrawal of the ACE of participants. AR DApp communicates with the Acent Rewards Smart Contract (ARSC) to process the participants&#39; requests.
 
 Acent Rewards Smart Contract (ARSC) handles processing of Acent Rewards Program (ARP). It accepts and stores the staked ACE of participants. It computes the corresponding rewards of the participant based on the balance of ASAP and number of participants of the ARP. It is also responsible for transferring ACE staked and ACE rewards to participants.
 
-### ACE-to-ACE Swap (A2AS) DApp
+### Acent Token Bridge (ATB) DApp
 
-ACE-to-ACE Swap (A2AS) DApp will enable holder of ACE in Ethereum to convert their Eth ACE to ACE, the native token of Acent blockchain.
+Acent Token Bridge (ATB) DApp will enable holder of ACE in Ethereum to convert their Eth ACE to ACE, the native token of Acent blockchain. ATB also facilitates conversion/bridging of ETH and ERC20 tokens from Ethereum to its Ascended token equivalent in Acent Blockchain. ATB handles both direction when converting/bridging tokens (i.e. from Ethereum blockchain to Acent blockchain and vice versa)
 
-To process holder&#39;s conversion/swap request, A2AS communicates with Ethereum Bridge Smart Contract (EBSC).
+To process holder&#39;s conversion/bridge request from EThereum blockchain to Acent Blockchain, ATB communicates with Ethereum Bridge Smart Contract (EBSC). EBSC will accept any of the defined Eth ACE, ETH or ERC20 Tokens from the request, locks the specific token/coin and register the bridge event in Ethereum events. Crypto Bridge Oracle (CBO) will listen for conversion/bridge events in Ethereum events and will send the requests to Acent Bridge Smart Contract (ABSC). ABSC will facilitate conversion/bridge requests and will send corresponding Ascended tokens/coins to the holder&#39;s address in Acent blockchain.
 
-EBSC will accept Eth ACE from the request, burn Eth ACE (I.e. send to 0x address), and register the swap event in Ethereum events.
+To process holder&#39;s conversion/bridge request from Acent blockchain to Ethereum Blockchain, ATB communicates with Acent Bridge Smart Contract (ABSC). ABSC will accept any of the defined Eth ACE, ETH or ERC20 Tokens from the request, locks the specific token/coin and register the bridge event in Acent blockchain events. Crypto Bridge Oracle (CBO) will listen for conversion/bridge events in Acent blockchain events and will send the requests to Ethereum Bridge Smart Contract (EBSC). EBSC will facilitate conversion/bridge requests and will send corresponding Ethereum tokens/coins to the holder&#39;s address in Ethereum blockchain.
 
-Crypto Bridge Oracle (CBO) will listen for conversion/swap events in Ethereum events and sends the requests to Acent Bridge Smart Contract (ABSC).
-
-ABSC will facilitate swap/conversion requests and sends corresponding ACE tokens to the holder&#39;s address in Acent blockchain.
-
-See [Appendix: Dapps - Smart Contract Flows](#dapps---smart-contracts-flow)
-
-### Ethereum-to-Acent Swap (E2AS) DApp
-
-Ethereum-to-Acent Swap (E2AS) DApp will enable token holders in Ethereum to convert their Ethereum ERC20 tokens to Ascended ARC20 in Acent Blockchain. The ERC20 tokens that will supported for swapping/conversion to ARC20 will be defined/created in the Acent Governance Smart Contract via Acent Governance Dapp.
-
-To process holder&#39;s conversion/swap request, E2AS communicates with Ethereum Bridge Smart Contract (EBSC).
-
-EBSC will accept the ERC20 tokens from the request, store the ERC20 tokens in the smart contract, and register the swap event in Ethereum events.
-
-Crypto Bridge Oracle (CBO) will listen for conversion/swap events in Ethereum events and sends the requests to Acent Bridge Smart Contract (ABSC).
-
-ABSC will facilitate swap/conversion requests and sends corresponding Ascended ARC20 tokens to the holder&#39;s address in Acent blockchain.
-
-See [Appendix: Dapps - Smart Contract Flows](#dapps---smart-contracts-flow)
+See [Appendix: DApps - Smart Contract Flows](#dapps-smart-contracts-flow)
 
 ### Acent Governance DApp
 
@@ -134,17 +116,40 @@ Osiris Metawallet is the native crypto wallet of Osiris browser. Osiris Metawall
 
 ## APPENDIX
 
-### DAPPS - SMART CONTRACTS FLOW
+### DAppS - SMART CONTRACTS FLOW
+
+#### ACENT REWARDS DAPP (Acent ACE Staking)
 
 ![ACENT STAKING](images/acent-staking.png)
 
+#### ACENT REWARDS DAPP (Acent ACE/Rewards Withdrawal)
+
 ![ACENT WITHDRAWAL](images/acent-withdrawal.png)
 
-![ACE TO ACE SWAP](images/a2a-swap.png)
+#### ACENT TOKEN BRIDGE (Ethereum ACE to Acent ACE Bridge)
 
-![ETH TO AETH SWAP](images/eth-aeth.png)
+![ETHEREUM ACE TO ACENT ACE ](images/ea2aa.png)
 
-![WBTC TO ABTC SWAP](images/wbtc-abtc.png)
+#### ACENT TOKEN BRIDGE (Acent ACE To Ethereum ACE Bridge)
+
+![ACENT ACE TO ETHEREUM ACE SWAP](images/aa2ea.png)
+
+#### ACENT TOKEN BRIDGE (Ethereum ETH to Acent AETH Bridge)
+
+![ETHEREUM ETH TO ACENT AETH](images/ee2ae.png)
+
+#### ACENT TOKEN BRIDGE (Acent AETH To Ethereum ETH Bridge)
+
+![ACENT AETH TO ETHEREUM ETH](images/ae2ee.png)
+
+#### ACENT TOKEN BRIDGE (Ethereum WBTC to Acent ABTC Bridge)
+
+![ETHEREUM WBTC TO ACENT ABTC](images/eb2ab.png)
+
+#### ACENT TOKEN BRIDGE (Acent ABTC To Ethereum WBTC Bridge)
+
+![ACENT ABTC TO ETHEREUM WBTC](images/ab2eb.png)
+
 
 ### Wrapped Smart Contract Samples
 
@@ -226,17 +231,17 @@ contract PancakeERC20 is Acent ERC20 {
 ## ACENT Network Architecture
 Acent is not just a product but an ecosystem that is built on a set of modular, adaptable, and interchangeable tools. It is a rewards based ecosystem that aims to surpass both the current internet ecosystems and the work of existing blockchains like Ethereum. 
 
-Acent aims to expand into the mainstream by incentivizing net-neutral browsing and introducing dApps that use the play-to-earn model, among others. Developers are encouraged to join the effort to improve existing tools and create new ones in order to make the promise of blockchain technology a reality. 
+Acent aims to expand into the mainstream by incentivizing net-neutral browsing and introducing DApps that use the play-to-earn model, among others. Developers are encouraged to join the effort to improve existing tools and create new ones in order to make the promise of blockchain technology a reality. 
 
 
 ### Acent mainnet
-![ACENT MAINNET](https://github.com/triggah61/acent-docs/blob/main/images/1.%20MAINNET.png)
+![ACENT MAINNET](images/1.%20MAINNET.png)
 
 ### Acent testnet
-![ACENT TESTNET](https://github.com/triggah61/acent-docs/blob/main/images/2.%20TESTNET.png)
+![ACENT TESTNET](images/2.%20TESTNET.png)
 
 ### Acent blockchain main infrastructure
-![ACENT BLOCKCHAIN MAIN INFRASTRUCTURE](https://github.com/triggah61/acent-docs/blob/main/images/3.%20INFRA.png)
+![ACENT BLOCKCHAIN MAIN INFRASTRUCTURE](images/3.%20INFRA.png)
 
 ### Future Network Enhancements
 
