@@ -104,7 +104,7 @@ To process holder&#39;s conversion/bridge request from EThereum blockchain to Ac
 
 To process holder&#39;s conversion/bridge request from Acent blockchain to Ethereum Blockchain, ATB communicates with Acent Bridge Smart Contract (ABSC). ABSC will accept any of the defined Eth ACE, ETH or ERC20 Tokens from the request, locks the specific token/coin and register the bridge event in Acent blockchain events. Crypto Bridge Oracle (CBO) will listen for conversion/bridge events in Acent blockchain events and will send the requests to Ethereum Bridge Smart Contract (EBSC). EBSC will facilitate conversion/bridge requests and will send corresponding Ethereum tokens/coins to the holder&#39;s address in Ethereum blockchain.
 
-See [Appendix: DApps - Smart Contract Flows](#dapps-smart-contracts-flow)
+See [Appendix: DApps - Smart Contract Flows](#dapps---smart-contracts-flow)
 
 ### Acent Governance DApp
 
