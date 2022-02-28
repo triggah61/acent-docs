@@ -9,7 +9,7 @@ In the crypto world, a faucet refers to modest payouts that are transferred to t
 
 This manual explains how to test the ACENT Network Faucet.
 
-![](Aspose.Words.9fa90552-093e-4470-8a5a-6862507ab9c7.002.png)
+<img src="/images/Acent_faucet1.gif" />
 
 ***Image 1. Acent Faucet procedure.***
 
