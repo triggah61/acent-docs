@@ -23,7 +23,7 @@ Below is a step-by-step procedure on how **to VERIFYRECEIVED ACE tokens** from o
 
 **Step 3.** To verify the transaction you may go to **[https://testscan.acent.tech/**](https://testscan.acent.tech/)** where the address of the Recipient and the Sender including the time and amount sent can be traced. This can be done by Copying and Pasting your Account Address to the empty search field below.
 
-<img src="/images/Aspose.Words.65.jpeg?raw=true" alt="Step 3"/>
+<img src="/images/AcentScanImage2.gif?raw=true" alt="Step 3"/>
 
 **Image 2. Procedure for verifying received funds using the ACENT test scan**
 
