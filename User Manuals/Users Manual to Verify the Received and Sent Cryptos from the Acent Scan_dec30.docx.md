@@ -17,7 +17,7 @@ Below is a step-by-step procedure on how **to VERIFYRECEIVED ACE tokens** from o
 
 **Step 2.** Provide an account address to the crypto Sender by clicking the Copy icon. Wait for the Sender’s confirmation that the crypto has been sent.
 
-<img src="/images/Acent%20Scan%20Image%201.gif?raw=true" alt="Step 2"/>
+<img src="/images/Acent%20Scan%201.gif?raw=true" alt="Step 2"/>
 
 **Image 1. Procedure for copying an account address.**
 
