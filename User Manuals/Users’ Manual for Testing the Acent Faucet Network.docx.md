@@ -1,6 +1,6 @@
 ﻿**Users’ Manual for Testing the ACENT Network Faucet**
 
-![](Aspose.Words.9fa90552-093e-4470-8a5a-6862507ab9c7.001.jpeg)
+![ACENT ARCHITECTURE](/images/Aspose.Words.jpeg)
 
 In the crypto world, a faucet refers to modest payouts that are transferred to the user's wallet for simple tasks such as seeing ads, watching product videos and more. The idea was inspired by the dripping water from the faucet.
 
