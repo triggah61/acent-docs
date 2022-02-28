@@ -19,6 +19,6 @@ This manual explains how to test the ACENT Network Faucet.
 
 **Step 3.** Go to **<https://testfaucet.acent.tech/>.** Paste the copied ACENT account address into the empty field of ACENT Network Faucet then click Request ACE. Wait as it processes your request.
 
-**Verification:** You can also verify the transaction from **[https://testscan.acent.tech/**](https://testscan.acent.tech/)** where the account addresses of the recipient and the sender including time and amount of transaction can be traced. This can be done by Copying and Pasting your Account Address to the empty search field below.
+**Verification:** You can also verify the transaction from [https://testscan.acent.tech/](https://testscan.acent.tech/) where the account addresses of the recipient and the sender including time and amount of transaction can be traced. This can be done by Copying and Pasting your Account Address to the empty search field below.
 
-For detailed procedure on how to use the ACENT Scan for verification purposes, read **[here.**](https://docs.google.com/document/d/1WgzZqUjqkqMO9aGPlhxgchrwGMSJ_rXz/edit)**
+For detailed procedure on how to use the ACENT Scan for verification purposes, read [here](https://github.com/triggah61/acent-docs/blob/main/User%20Manuals/Users%20Manual%20to%20Verify%20the%20Received%20and%20Sent%20Cryptos%20from%20the%20Acent%20Scan_dec30.docx.md)
