@@ -9,9 +9,9 @@ The ACENT Scan is Etherscan's parallel counterpart. It is a tool for validating 
 
 This manual shows how to VERIFY the RECEIVED and SENT money transactions to and from one crypto wallet to another through the ACENT Scan.
 
-**Part A:** Verify Received Transactions
+### Part A: Verify Received Transactions
 
-Below is a step-by-step procedure on how **to VERIFYRECEIVED ACE tokens** from one crypto wallet to your own wallet address.
+Below is a step-by-step procedure on how **to VERIFY RECEIVED ACE tokens** from one crypto wallet to your own wallet address.
 
 **Step 1.** Log –in to your existing crypto wallet. If you do not have a crypto wallet yet, try opening an account by following its corresponding procedure. Make sure to note the seed phrase recovery and keep it safe.
 
@@ -27,7 +27,7 @@ Below is a step-by-step procedure on how **to VERIFYRECEIVED ACE tokens** from o
 
 **Image 2. Procedure for verifying received funds using the ACENT test scan**
 
-**Part B:**Verify Sent Transaction
+### Part B: Verify Sent Transaction
 
 Below is a step-by-step procedure **to VERIFY SENT ACE tokens** from your crypto wallet to another crypto wallet:
 
