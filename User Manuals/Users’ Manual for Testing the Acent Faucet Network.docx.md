@@ -14,7 +14,7 @@ This manual explains how to test the ACENT Network Faucet.
 Image 1. Acent Faucet procedure.
 </h4>
 
-**Step 1.** Log –in to your existing crypto wallet. Ifyou do not have a crypto wallet yet, try opening an account by following its corresponding procedure. Make sure to note the seed phrase recovery and keep it safe.
+**Step 1.** Log –in to your existing crypto wallet. If you do not have a crypto wallet yet, try opening an account by following its corresponding procedure. Make sure to note the seed phrase recovery and keep it safe.
 
 **Step 2.** Click on your account address and it will be promptly copied to your clipboard.
 
@@ -22,4 +22,4 @@ Image 1. Acent Faucet procedure.
 
 **Verification:** You can also verify the transaction from [https://testscan.acent.tech/](https://testscan.acent.tech/) where the account addresses of the recipient and the sender including time and amount of transaction can be traced. This can be done by Copying and Pasting your Account Address to the empty search field.
 
-For detailed procedure on how to use the ACENT Scan for verification purposes. read [here](https://github.com/triggah61/acent-docs/blob/main/User%20Manuals/Users%20Manual%20to%20Verify%20the%20Received%20and%20Sent%20Cryptos%20from%20the%20Acent%20Scan_dec30.docx.md)
+For detailed procedure on how to use the ACENT Scan for verification purposes, read [here.](https://github.com/triggah61/acent-docs/blob/main/User%20Manuals/Users%20Manual%20to%20Verify%20the%20Received%20and%20Sent%20Cryptos%20from%20the%20Acent%20Scan_dec30.docx.md)
