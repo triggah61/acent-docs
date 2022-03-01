@@ -18,14 +18,16 @@ Below is a step-by-step procedure on how **to VERIFY RECEIVED ACE tokens** from 
 **Step 2.** Provide an account address to the crypto Sender by clicking the Copy icon. Wait for the Sender’s confirmation that the crypto has been sent.
 
 <img src="/images/Acent%20Scan%201.gif?raw=true" alt="Step 2"/>
-
-**Image 1. Procedure for copying an account address.**
+<h4 align="center">
+ Image 1. Procedure for copying an account address.
+</h4>
 
 **Step 3.** To verify the transaction you may go to **[https://testscan.acent.tech/**](https://testscan.acent.tech/)** where the address of the Recipient and the Sender including the time and amount sent can be traced. This can be done by Copying and Pasting your Account Address to the empty search field below.
 
 <img src="/images/AcentScan2.gif?raw=true" alt="Step 3"/>
-
-**Image 2. Procedure for verifying received funds using the ACENT test scan**
+<h4 align="center">
+ Image 2. Procedure for verifying received funds using the ACENT test scan
+</h4>
 
 ### Part B: Verify Sent Transaction
 
@@ -35,26 +37,35 @@ Below is a step-by-step procedure **to VERIFY SENT ACE tokens** from your crypto
 
 <img src="/images/AcentScan3.gif?raw=true" alt="Step 3_1"/>
 
-**Image 3. Procedure for sending crypto to another wallet address.**
+<h4 align="center">
+ Image 3. Procedure for sending crypto to another wallet address.
+</h4>
 
 **Step 2**. Request the crypto wallet address of the Recipient and paste it to the empty field. You may save the account address of the Recipient for future use. Put other details such as the amount of tokens to send and click ”Send”.
 
 <img src="/images/AcentScan4.gif?raw=true" alt="Step 3_2"/>
-
-**Image 4. Procedure for sending crypto to another wallet address. Step 3**. Click “Confirm” on the succeeding User Interface page.
+<h4 align="center">
+ Image 4. Procedure for sending crypto to another wallet address. Step 3. Click “Confirm” on the succeeding User Interface page.
+</h4>
 
 <img src="/images/AcentScan5.gif?raw=true" alt="Step 3_3"/>
 
-**Image 5. Procedure for confirming a sent crypto.**
+<h4 align="center">
+ Image 5. Procedure for confirming a sent crypto.
+</h4>
 
 **Step** 4. Wait until the “Pending” transaction is successfully processed and is deducted from your account.
 
 <img src="/images/AcentScan6.gif?raw=true" alt="Step 3_4"/>
 
-**Image 6. Successful sending of crypto.**
+<h4 align="center">
+ Image 6. Successful sending of crypto.
+</h4>
 
 **Step 5.** To verify the transaction you may go to **[https://testscan.acent.tech/**](https://testscan.acent.tech/)** where the address of the Recipient and the Sender including the time and amount sent can be traced. This can be done by Copying and Pasting your Account Address to the empty search field below.
 
 <img src="/images/AcentScan2.gif?raw=true" alt="Step 3_5"/>
 
-**Image 7. User Interface of the ACENT Test Scan**
+<h4 align="center">
+ Image 7. User Interface of the ACENT Test Scan
+</h4>
