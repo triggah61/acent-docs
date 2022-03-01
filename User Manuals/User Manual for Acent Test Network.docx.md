@@ -6,13 +6,13 @@ Users’ Manual on How to Add the ACENT Test Network
   <img src="/images/AcentTestnetFeatured.jpg?raw=true" alt="Sublime's custom image"/>
 </p>
 
-The ACENT Mainnet is a hard fork of the Ethereum blockchain. It has its own native token, known as ACE, that functions as a utility and governance token.It is currently listed on Kucoin, Gate.io and BKEX Market.
+The ACENT Mainnet is a hard fork of the Ethereum blockchain. It has its own native token, known as ACE, that functions as a utility and governance token. It is currently listed on Kucoin, Gate.io and BKEX Market.
 
-The ACENT testnet version will be released as a staging environment to improve the ACENT mainnet. This manual explains how to integrate ACENT Testnet into an existing cryptocurrency wallet..
+The ACENT testnet version will be released as a staging environment to improve the ACENT mainnet. This manual explains how to integrate ACENT Testnet into an existing cryptocurrency wallet.
 
 Below is a step-by-step procedure for adding the ACENT Testnet:
 
-**Step 1.** Log –in to your existing crypto wallet. Ifyou do not have a crypto wallet yet, try opening an account by following its corresponding procedure. Make sure to note the seed phrase recovery and keep it safe.
+**Step 1.** Log –in to your existing crypto wallet. If you do not have a crypto wallet yet, try opening an account by following its corresponding procedure. Make sure to note the seed phrase recovery and keep it safe.
 
 **Step 2.** Click the drop down arrow beside the network name once you are inside the crypto wallet. You will be able to see which blockchain networks you have registered for. If you are new to the crypto wallet, you will only see one option which is the Ethereum Mainnet. Click "Add Network'' at the bottom of the drop down menu to add a new network.
 
@@ -59,7 +59,7 @@ Image 3. Successful adding of the ACENT Testnet.
 <h4 align="center">
 Image 4. Procedure for copying the account address.
 </h4> 
-Step 2.** Wait for a few seconds after the Sender has sent the funds to the account.
+Step 2. Wait for a few seconds after the Sender has sent the funds to the account.
 
 <img src="/images/Image5.gif?raw=true" alt="Sublime's custom image"/>
 
