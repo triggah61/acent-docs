@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-Users’ Manual for Testing the ACENT Network FaucetUsers’ Manual on How to Download, Install, and Use Features of the Osiris Browser
+Users’ Manual on How to Download, Install, and Use Features of the Osiris Browser
 </h1>
 <p align="center">
   <img src="/images/osirisimage.jpg?raw=true" alt="Sublime's custom image"/>
