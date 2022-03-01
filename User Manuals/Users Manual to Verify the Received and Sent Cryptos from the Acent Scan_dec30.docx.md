@@ -1,5 +1,8 @@
 ﻿<h1 align="center">
- Users’ Manual to Verify the Received and Sent Transactions on ACENT Scan
+ Users’ Manual to Verify the Received and Sent Transactions on
+</h1>
+<h1 align="center">
+ ACENT Scan
 </h1>
 <p align="center">
   <img src="/images/Acent_scan.png?raw=true" alt="Sublime's custom image"/>
