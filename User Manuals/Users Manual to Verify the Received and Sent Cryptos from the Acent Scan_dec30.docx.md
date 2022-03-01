@@ -45,9 +45,11 @@ Below is a step-by-step procedure **to VERIFY SENT ACE tokens** from your crypto
 
 <img src="/images/AcentScan4.gif?raw=true" alt="Step 3_2"/>
 <h4 align="center">
- Image 4. Procedure for sending crypto to another wallet address. Step 3. Click “Confirm” on the succeeding User Interface page.
+ Image 4. Procedure for sending crypto to another wallet address.
 </h4>
 
+ **Step 3**. Click “Confirm” on the succeeding User Interface page.
+ 
 <img src="/images/AcentScan5.gif?raw=true" alt="Step 3_3"/>
 
 <h4 align="center">
