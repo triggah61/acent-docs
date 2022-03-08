@@ -26,7 +26,7 @@ Image 1. Clicking the Add Network.
 
 Network Name: **ACENT PROD TESTNET**
 
-New RPC URL: **http://3.37.4.143:8545**
+New RPC URL: **https://test.acent.tech/**
 
 Chain ID:**8899**
 
